@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "metadata": "GeoJSON of Purple Air Stations requested by station ID, data from PA API, AQI Index calculated using USEPA methods by NHBP, WGS 84 Coordinate System",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 44439,
+                "label": "NHBP",
+                "flagged_high": 0,
+                "version": "6.01",
+                "WiFiSignal": "-59",
+                "PM2_5Value": "34.93",
+                "PM2_5_1hour": 34.3,
+                "PM2_5_24hour": 20.7,
+                "PM2_5_1week": 12.9,
+                "sensorDiff": "1.34",
+                "AQI": 99,
+                "AQIText": "Moderate",
+                "AQI1Hour": 98,
+                "AQI1HourText": "Moderate",
+                "AQI24Hour": 69,
+                "AQI24HourText": "Moderate",
+                "AQI1Week": 53,
+                "AQI1WeekText": "Moderate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.269179,
+                    42.102401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 41995,
+                "label": "NHBP-ORIOLE",
+                "version": "6.01",
+                "WiFiSignal": "-75",
+                "PM2_5Value": "36.21",
+                "PM2_5_1hour": 37.3,
+                "PM2_5_24hour": 22.7,
+                "PM2_5_1week": 12.5,
+                "sensorDiff": "0.94",
+                "AQI": 103,
+                "AQIText": "Unhealthy for Sensitive Groups",
+                "AQI1Hour": 105,
+                "AQI1HourText": "Unhealthy for Sensitive Groups",
+                "AQI24Hour": 73,
+                "AQI24HourText": "Moderate",
+                "AQI1Week": 52,
+                "AQI1WeekText": "Moderate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.261472,
+                    42.103152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 41993,
+                "label": "NHBP-LILAC",
+                "version": "6.01",
+                "WiFiSignal": "-86",
+                "PM2_5Value": "3.97",
+                "PM2_5_1hour": 9.99,
+                "PM2_5_24hour": 13.4,
+                "PM2_5_1week": 13.1,
+                "sensorDiff": "0.01",
+                "AQI": 17,
+                "AQIText": "Good",
+                "AQI1Hour": 42,
+                "AQI1HourText": "Good",
+                "AQI24Hour": 54,
+                "AQI24HourText": "Moderate",
+                "AQI1Week": 53,
+                "AQI1WeekText": "Moderate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.197547,
+                    43.078312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 42005,
+                "label": "NHBP-Goat",
+                "flagged_high": 1,
+                "version": "6.01",
+                "WiFiSignal": "-53",
+                "PM2_5Value": "36.2",
+                "PM2_5_1hour": 34.5,
+                "PM2_5_24hour": 24.4,
+                "PM2_5_1week": 16.8,
+                "sensorDiff": "1.20",
+                "AQI": 103,
+                "AQIText": "Unhealthy for Sensitive Groups",
+                "AQI1Hour": 98,
+                "AQI1HourText": "Moderate",
+                "AQI24Hour": 77,
+                "AQI24HourText": "Moderate",
+                "AQI1Week": 61,
+                "AQI1WeekText": "Moderate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.244534,
+                    43.22245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 41907,
+                "label": "Hillman, Michigan",
+                "version": "6.01",
+                "WiFiSignal": "-73",
+                "PM2_5Value": "9.02",
+                "PM2_5_1hour": 14.2,
+                "PM2_5_24hour": 22.6,
+                "PM2_5_1week": 12,
+                "sensorDiff": "1.52",
+                "AQI": 38,
+                "AQIText": "Good",
+                "AQI1Hour": 55,
+                "AQI1HourText": "Moderate",
+                "AQI24Hour": 73,
+                "AQI24HourText": "Moderate",
+                "AQI1Week": 50,
+                "AQI1WeekText": "Good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.043517,
+                    45.048314
+                ]
+            }
+        }
+    ]
+}
